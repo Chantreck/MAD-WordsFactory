@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="ink_dark">#FF3C3A36</color>
+    <color name="ink_dark_grey">#FF78746D</color>
+    <color name="primary">#FFE3562A</color>
 </resources>
