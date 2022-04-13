@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading1">56sp</dimen>
+    <dimen name="heading2">40sp</dimen>
+    <dimen name="heading3">32sp</dimen>
+    <dimen name="heading4">24sp</dimen>
+    <dimen name="heading5">20sp</dimen>
+    <dimen name="paragraph_large">16sp</dimen>
+    <dimen name="paragraph_medium">14sp</dimen>
+    <dimen name="paragraph_small">12sp</dimen>
+    <dimen name="button_large">22sp</dimen>
+    <dimen name="button_medium">16sp</dimen>
+    <dimen name="button_small">14sp</dimen>
+
+    <dimen name="margin_16">16dp</dimen>
+</resources>
