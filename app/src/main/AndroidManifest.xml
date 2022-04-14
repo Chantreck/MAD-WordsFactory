@@ -10,8 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WordsFactory">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".sign_up.SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onboarding.OnboardingActivity"
+            android:exported="true"
+            android:theme="@style/Theme.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
